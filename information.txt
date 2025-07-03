@@ -1,0 +1,22 @@
+admin banava chnage mongo ma jai ne karelu che,,anathi login karvanu to admin page khulse
+username: shubham
+email: shubh2tufpc@gmail.com
+pass;123
+
+//userview jovo hoy to ,,anathi login karvanu to login page khulse
+username:user
+email:user@me.c
+pass:1234
+
+http://localhost:5173/auth/register
+
+
+
+
+
+
+dashboard na pics delete karva mate mongoDB cloud ma jai ne browse collection ma jai ne FEATURES
+ma jai ne delete karva
+
+
+(you need to purchase th product to add review)
